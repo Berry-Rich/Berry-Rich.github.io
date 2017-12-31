@@ -14,3 +14,14 @@ header nav {
   display: flex;
   justify-content: flex-end;
 }
+
+.cohen
+.levi
+.richulsky
+.schiff
+.about {
+  width: 100%;
+  padding: 1em 3em 2em 2em;
+  margin: 0.5em;
+  color: blue;
+}
