@@ -11,7 +11,7 @@ footer .col-sm-8 {
   justify-content: flex-end;
 }
 header nav {
-  display: inline;
+  display: flex;
   justify-content: flex-end;
 }
 
@@ -20,7 +20,7 @@ header nav {
   background-color: whitesmoke;
   opacity: 0.9;
   width: 10em;
-  color: 	#3a5fcd;
+  color: 	blue;
 }
 
 .richulsky {
@@ -28,7 +28,7 @@ header nav {
   background-color: whitesmoke;
   opacity: 0.9;
   width: 10em;
-  color: 	#3a5fcd;
+  color: 	blue;
 }
 
 .schiff {
@@ -36,7 +36,7 @@ header nav {
   background-color: whitesmoke;
   opacity: 0.9;
   width: 10em;
-  color: 	#3a5fcd;
+  color: blue;
 }
 
 .levi {
@@ -44,13 +44,12 @@ header nav {
   background-color: whitesmoke;
   opacity: 0.9;
   width: 10em;
-  color: 	#3a5fcd;
-}
+  color: blue;
 
 .cohen {
   padding: 0.75em 1.25em;
   background-color: whitesmoke;
   opacity: 0.9;
   width: 10em;
-  color: 	#3a5fcd;
+  color: blue;
 }
