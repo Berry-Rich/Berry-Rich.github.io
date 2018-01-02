@@ -1,3 +1,8 @@
+.col-sm-4 {
+  background-color:	#3a5fcd;
+  color: white;
+}
+
 header {
   padding: 20px 0;
 }
