@@ -21,14 +21,14 @@ header nav {
 }
 
 .active {
-  background-color: #3a5fcd;
+  background-color: 	#4169e1;
   color: whitesmoke;
 }
 
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #3a5fcd;
+  color: 	#4169e1;
   text-shadow: none;
   background-color: whitesmoke;
 }
