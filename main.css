@@ -21,6 +21,7 @@ padding: 0.75em 1.25em;
   opacity: 0.9;
   width: 68px;
   color: black;
+  font-weight: bold;
 }
 
 .richulsky {
@@ -29,6 +30,7 @@ padding: 0.75em 1.25em;
   opacity: 0.9;
   width: 100px;
   color: black;
+  font-weight: bold;
 }
 
 .schiff {
@@ -37,6 +39,7 @@ padding: 0.75em 1.25em;
   opacity: 0.9;
   width: 68px;
   color: black;
+  font-weight: bold;
 }
 
 .levi {
@@ -45,6 +48,7 @@ padding: 0.75em 1.25em;
   opacity: 0.9;
   width: 56px;
   color: black;
+  font-weight: bold;
 }
 
 .cohen {
@@ -53,4 +57,5 @@ padding: 0.75em 1.25em;
   opacity: 0.9;
   width: 80px;
   color: black;
+  font-weight: bold;
 }
