@@ -20,7 +20,7 @@ header nav {
   float: center;
 }
 
-.btn.btn-primary:hover {
+.active {
   background-color: #3a5fcd;
   color: whitesmoke;
 }
@@ -28,7 +28,7 @@ header nav {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: whitesmoke;
+  color: #3a5fcd;
   text-shadow: none;
-  background-color: #3a5fcd;
+  background-color: whitesmoke;
 }
