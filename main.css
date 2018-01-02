@@ -15,10 +15,6 @@ header nav {
   justify-content: flex-end;
 }
 
-.richulsky
-.cohen
-.levi
-.schiff
 .about {
   width: 100%;
   padding: 15px;
@@ -28,7 +24,34 @@ header nav {
   display: flex;
 }
 
-.families {
+.richulsky {
+  width: 100%;
+  padding: 15px;
+  margin: 5px;
+  color: black;
+  border: 2px solid #27408b;
+  display: flex;
+}
+
+.schiff {
+  width: 100%;
+  padding: 15px;
+  margin: 5px;
+  color: black;
+  border: 2px solid #27408b;
+  display: flex;
+}
+
+.levi {
+  width: 100%;
+  padding: 15px;
+  margin: 5px;
+  color: black;
+  border: 2px solid #27408b;
+  display: flex;
+}
+
+.cohen {
   width: 100%;
   padding: 15px;
   margin: 5px;
