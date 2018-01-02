@@ -20,4 +20,5 @@ header nav {
   padding: 1em 3em 2em 2em;
   margin: 0.5em;
   color: blue;
+  display: flex;
 }
