@@ -65,12 +65,12 @@ padding: 0.75em 1.25em;
   font-weight: bold;
 }
 
-.btn.btn-primary:hover {
+.btn btn-primary:hover {
   background-color: #3a5fcd;
   color: whitesmoke;
 }
 
-.btn.btn-primary {
+.btn btn-primary {
   border-radius: 2px;
   border: 0px;
   color: whitesmoke;
