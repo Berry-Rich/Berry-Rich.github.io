@@ -20,57 +20,12 @@ header nav {
   float: center;
 }
 
-.about {
-padding: 0.75em 1.25em;
-  background-color: whitesmoke;
-  opacity: 0.9;
-  width: 68px;
-  color: 	#3a5fcd;
-  font-weight: bold;
-}
-
-.richulsky {
-padding: 0.75em 1.25em;
-  background-color: whitesmoke;
-  opacity: 0.9;
-  width: 100px;
-  color: 	#3a5fcd;
-  font-weight: bold;
-}
-
-.schiff {
-padding: 0.75em 1.25em;
-  background-color: whitesmoke;
-  opacity: 0.9;
-  width: 68px;
-  color: 	#3a5fcd;
-  font-weight: bold;
-}
-
-.levi {
-padding: 0.75em 1.25em;
-  background-color: whitesmoke;
-  opacity: 0.9;
-  width: 56px;
-  color: 	#3a5fcd;
-  font-weight: bold;
-}
-
-.cohen {
-padding: 0.75em 1.25em;
-  background-color: whitesmoke;
-  opacity: 0.9;
-  width: 80px;
-  color: 	#3a5fcd;
-  font-weight: bold;
-}
-
-.btn btn-primary:hover {
+.btn.btn-primary:hover {
   background-color: #3a5fcd;
   color: whitesmoke;
 }
 
-.btn btn-primary {
+.btn.btn-primary {
   border-radius: 2px;
   border: 0px;
   color: whitesmoke;
