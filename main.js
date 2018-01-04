@@ -1,6 +1,8 @@
 function main() {  
 
-$('.projects-button').on('click', function() {
+$('.people').hide();
+	
+$('.schiff').on('click', function() {
     $(this).next().slideToggle(400);
     $(this).toggleClass('active');
 	});
