@@ -32,3 +32,11 @@ header nav {
   text-shadow: none;
   background-color: whitesmoke;
 }
+
+.schiff {
+    padding: 0.75em 1.25em;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  width: 50px;
+  color: #4169e1;
+}
